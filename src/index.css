@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root{
+--bgnew:color-mix( in oklab, hsl(228 calc(1 * 6.024%) 32.549% / 0.3) 100%, hsl(0 0% 0% / 0.3) 0% );
+}
